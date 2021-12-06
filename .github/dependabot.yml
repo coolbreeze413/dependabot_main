@@ -4,17 +4,17 @@ updates:
     directory: "/"
     schedule:
       interval: "daily"
-      time: "22:31"
+      time: "00:41"
       timezone: "Asia/Kolkata"
-    #assignees:
-    #  - "username"
+    assignees:
+      - "coolbreeze413"
     #labels:
     #  - "submodule-updates"
     # Must use the full team name, including the organization, as if you were @mentioning the team
-    #reviewers:
-    #  - "username"
+    reviewers:
+      - "coolbreeze413"
     # Allow dependabot to open up to 10 open pull requests. Default is 5.
     # open-pull-requests-limit: 10
     allow:
-      # only enable for the yosys-symbiflow-plugins submodule
+      # only enable for the "b" submodule
       - dependency-name: "dependabot_sub_b"
