@@ -4,8 +4,8 @@ updates:
     directory: "/"
     schedule:
       interval: "daily"
-      time: "22:20"
-      timezone: "IST"
+      time: "22:25"
+      timezone: "Asia/Kolkata"
     #assignees:
     #  - "username"
     labels:
