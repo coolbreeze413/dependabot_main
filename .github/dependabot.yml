@@ -4,7 +4,7 @@ updates:
     directory: "/"
     schedule:
       interval: "daily"
-      time: "00:41"
+      time: "00:45"
       timezone: "Asia/Kolkata"
     assignees:
       - "coolbreeze413"
