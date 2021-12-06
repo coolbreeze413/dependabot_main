@@ -4,7 +4,7 @@ updates:
     directory: "/"
     schedule:
       interval: "daily"
-      time: "22:25"
+      time: "22:27"
       timezone: "Asia/Kolkata"
     #assignees:
     #  - "username"
@@ -18,3 +18,4 @@ updates:
     allow:
       # only enable for the yosys-symbiflow-plugins submodule
       - dependency-name: "dependabot_sub_a"
+      - dependency-name: "dependabot_sub_b"
