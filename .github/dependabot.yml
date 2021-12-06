@@ -4,12 +4,12 @@ updates:
     directory: "/"
     schedule:
       interval: "daily"
-      time: "22:27"
+      time: "22:31"
       timezone: "Asia/Kolkata"
     #assignees:
     #  - "username"
-    labels:
-      - "submodule-updates"
+    #labels:
+    #  - "submodule-updates"
     # Must use the full team name, including the organization, as if you were @mentioning the team
     #reviewers:
     #  - "username"
@@ -17,5 +17,4 @@ updates:
     # open-pull-requests-limit: 10
     allow:
       # only enable for the yosys-symbiflow-plugins submodule
-      - dependency-name: "dependabot_sub_a"
       - dependency-name: "dependabot_sub_b"
