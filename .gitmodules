@@ -1,3 +1,6 @@
 [submodule "dependabot_sub_a"]
 	path = dependabot_sub_a
 	url = https://github.com/coolbreeze413/dependabot_sub_a.git
+[submodule "dependabot_sub_b"]
+	path = dependabot_sub_b
+	url = https://github.com/coolbreeze413/dependabot_sub_b.git
