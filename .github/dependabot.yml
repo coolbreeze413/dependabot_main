@@ -18,3 +18,4 @@ updates:
     allow:
       # only enable for the "b" submodule
       - dependency-name: "dependabot_sub_b"
+      - dependency-name: "dependabot_sub_a"
